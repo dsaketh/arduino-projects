@@ -1,2 +1,2 @@
-# arduino-projects
+# README
 A Compilation of Arduino Projects
